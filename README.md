@@ -1,2 +1,2 @@
 # shopify-theme
-practice shopify theme development using CLI
+practicing shopify theme development using CLI
